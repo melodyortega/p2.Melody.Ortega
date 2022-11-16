@@ -1,5 +1,4 @@
 # Project #2
-Presentation Gif:
 
 Presentation Video Link: 
 https://youtu.be/Xqw8hXh-Fdw
